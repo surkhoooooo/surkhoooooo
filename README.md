@@ -4,7 +4,7 @@
 ##Стек технологий с которыми я работаю:
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="HTML" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
   </br>
