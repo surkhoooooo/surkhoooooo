@@ -11,10 +11,10 @@
    <img alt="REACT" width='60px' src="https://cdn-icons-png.flaticon.com/512/875/875209.png" />  
    <img alt="REACT-REDUX" width='60px' src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />  
    <img alt="NODEJS" width='60px' src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />  
-  <img align="left" width=60px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
-  <img align="left" width=60px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
-   <img align="left" width=60px src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
-     <img align="left" width=60px src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" alt="photoJs" />
+  <img alt="mongodb" width=60px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
+  <img alt="webpack" width=60px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
+   <img alt="webpack" width=60px src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
+    
 </div>
 
 
