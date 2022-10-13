@@ -1,7 +1,7 @@
 ###  Приветствую вас! Меня зовут Сурхо м я Frontend Developer
 
 
-##Стек технологий с которыми я работаю:
+Стек технологий с которыми я работаю:
 
 <div>
   
@@ -11,6 +11,8 @@
    <img alt="REACT" width='60px' src="https://cdn-icons-png.flaticon.com/512/875/875209.png" />  
    <img alt="REACT-REDUX" width='60px' src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />  
    <img alt="NODEJS" width='60px' src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />  
+   <img alt="MONGODB" width='60px' src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" />  
+   <img alt="EXPRESS" width='60px' src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg" />  
 </div>
 
 
