@@ -1,4 +1,4 @@
-###  Приветствую вас! Меня зовут Сурхо м я Frontend Developer
+###  Приветствую вас! Меня зовут Сурхо и я Frontend Developer
 
 
 Стек технологий с которыми я работаю:
@@ -15,6 +15,20 @@
    <img alt="webpack" width=60px src="https://img.icons8.com/dusk/344/webpack.png" /> 
   <img alt="webpack" width=60px src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" /> 
 </div>
+
+
+
+<ul>
+  <li>HTML5, CSS3, JavaScript </li>
+  <li>React</li>
+  <li>React Redux</li>
+  <li>Redux Toolkit</li>
+  <li>React Router Dom </li>
+  <li>Webpack</li>
+  <li>Postman</li>
+  <li>MongoDB</li>
+  <li>ExpressJS, NodeJS, Mongoose</li>
+  <ul/>
 
 
 ## Мои недавние проекты:
