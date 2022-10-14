@@ -20,13 +20,8 @@
 
 <ul>
   <li>HTML5, CSS3, JavaScript </li>
-  <li>React</li>
-  <li>React Redux</li>
-  <li>Redux Toolkit</li>
-  <li>React Router Dom </li>
-  <li>Webpack</li>
-  <li>Postman</li>
-  <li>MongoDB</li>
+  <li>React, React-Redux, Redux-Toolkit, React-Router-Dom</li>
+  <li>Webpack, MongoDB, Postman</li>
   <li>ExpressJS, NodeJS, Mongoose</li>
   <ul/>
 
